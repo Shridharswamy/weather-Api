@@ -18,10 +18,11 @@ Thats it now you can see the json file NOTE:-make sure your script is running pa
 
 ![p1](https://github.com/Shridharswamy/weather-Api/assets/150256209/9ba9e219-fb9a-475e-8b79-16c2d07d3a21)
 
-few screenshots to execute this
-
-
 First pic shows to open the base url displayed in the terminal after running the script in vs code
 
 ![p2](https://github.com/Shridharswamy/weather-Api/assets/150256209/873c9d76-6fd3-4fe2-84af-84d9edab83f4)
+
+
+OUTPUT
+![p3](https://github.com/Shridharswamy/weather-Api/assets/150256209/15aaf1fc-fc1c-400e-8b0a-bbb2a35a2bc3)
 
