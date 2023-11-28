@@ -13,7 +13,7 @@ run this script in the vs code make sure you have installed python on your devic
 after hitting the run button in the terminal you will see the base url like http://127.0.0.1:5000 just open this in your browser.
 by default this link is selected when you open this link you will see 404 error to fetch the weather you have to append this base url with api endpoint
 /weather?location=city name #replace the city name with the name of the city of which you have to get the weather data
-add this above url with city name to base url and then you will get the weather data ex:-http://127.0.0.1:5000/weather?location=bengaluru
+add this above url with city name to base url and then you will get the weather data ex:-http://127.0.0.1:5000/weather?location=Bidar
 Thats it now you can see the json file NOTE:-make sure your script is running parallely in vs code
 
 ![p1](https://github.com/Shridharswamy/weather-Api/assets/150256209/9ba9e219-fb9a-475e-8b79-16c2d07d3a21)
