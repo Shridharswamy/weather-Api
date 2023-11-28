@@ -26,3 +26,8 @@ First pic shows to open the base url displayed in the terminal after running the
 OUTPUT
 ![p3](https://github.com/Shridharswamy/weather-Api/assets/150256209/15aaf1fc-fc1c-400e-8b0a-bbb2a35a2bc3)
 
+
+after following all the steps you will get the result in json file you can also change the city name and try with other locations
+after getting the output copy that url in your browser and test the api with postman
+
+![p4](https://github.com/Shridharswamy/weather-Api/assets/150256209/d5b35227-8ddb-41c5-b0af-42f04acb7df5)
